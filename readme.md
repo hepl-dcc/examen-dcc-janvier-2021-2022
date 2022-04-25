@@ -2,7 +2,7 @@
 
 > Examen DCC janvier 2022
 
-
+Vous pouvez consulter une version finale du projet [ici](https://hepl-dcc.github.io/examen-dcc-janvier-2021-2022/).
 
 ## Préambule
 
